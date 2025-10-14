@@ -55,7 +55,8 @@ Copy code
 ---
 
 ## 🖼️ Example Output
-*(Insert dashboard screenshot or chart image here)*  
+![C5A1BD63-F00A-45F6-BAC3-9E0AFAEFFA89_1_201_a](https://github.com/user-attachments/assets/1bc78299-5435-41bf-873f-7ed5680018db)
+ 
 
 ---
 
