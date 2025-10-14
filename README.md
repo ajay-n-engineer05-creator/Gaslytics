@@ -1,6 +1,3 @@
-# Gaslytics
-Real-time industrial gas monitoring and visualization platform integrating data analytics and image-based feature extraction.
-
 # Gaslytics — Industrial Gas Monitoring and Visualization Platform
 
 **Overview:**  
@@ -11,7 +8,7 @@ It includes modules for both sensor data visualization and advanced image-based 
 
 ## 🚀 Features
 - Real-time gas concentration tracking from CSV or sensor data  
-- Data visualization dashboard using Python (Matplotlib, Plotly)  
+- Data visualization dashboard using Python (Plotly)  
 - Image enhancement and feature extraction for gas plume detection  
 - Modular design for analytics and visualization  
 - Custom alerts for threshold breaches  
@@ -19,12 +16,13 @@ It includes modules for both sensor data visualization and advanced image-based 
 ---
 
 ## 🧰 Tech Stack
-- **Languages:** Python  
-- **Libraries:** Pandas, NumPy, OpenCV, Matplotlib, Scikit-image  
+- **Language:** Python  
+- **Libraries:** Pandas, NumPy, OpenCV, Plotly  
 - **Tools:** Jupyter, CSV-based data pipelines  
-- **Environment:** Windows/Linux
+- **Environment:** Windows / Linux  
 
 ---
+
 ## 📂 Repository Structure
 Gaslytics/
 │
@@ -38,6 +36,8 @@ Gaslytics/
 │
 └── assets/ # Screenshots or results
 
+yaml
+Copy code
 
 ---
 
@@ -71,24 +71,13 @@ pip install -r requirements.txt
 # Run main modules
 python gas_view_tool/Gas_view_tool_csv.py
 python image_processing/Retinex_diff_Haralick_features_single_video_processing.py
+🔮 Future Work
+Integration with live sensor APIs
 
+Web-based dashboard for real-time visualization
 
+Machine learning for anomaly detection
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+📜 License
+This project was developed as side Project.
+Use for learning and demonstration purposes only.
