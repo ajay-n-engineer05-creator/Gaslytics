@@ -1,0 +1,2 @@
+# Exclude auto-generated HTML files from language stats
+outputs/*.html linguist-vendored
