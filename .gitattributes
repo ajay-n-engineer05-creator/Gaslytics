@@ -1,2 +1,5 @@
 # Exclude auto-generated HTML files from language stats
 outputs/*.html linguist-vendored
+Output1/**/*.html linguist-vendored
+Output2/**/*.html linguist-vendored
+Output3/**/*.html linguist-vendored
