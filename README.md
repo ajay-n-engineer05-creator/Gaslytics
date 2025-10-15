@@ -86,4 +86,4 @@ Machine learning for anomaly detection
 
 📜 License
 This project was developed as side Project.
-Use for learning and demonstration purposes only.
+Use for learning and demonstration purposes.
