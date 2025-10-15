@@ -1,5 +1,10 @@
 # Exclude auto-generated HTML files from language stats
 outputs/*.html linguist-vendored
-Output1/**/*.html linguist-vendored
-Output2/**/*.html linguist-vendored
-Output3/**/*.html linguist-vendored
+
+# Exclude all HTML files in Output 1, Output 2, Output 3 (including subdirectories) from language stats
+"Output 1"/*.html linguist-vendored
+"Output 1"/**/*.html linguist-vendored
+"Output 2"/*.html linguist-vendored
+"Output 2"/**/*.html linguist-vendored
+"Output 3"/*.html linguist-vendored
+"Output 3"/**/*.html linguist-vendored
